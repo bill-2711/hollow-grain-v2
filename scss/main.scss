@@ -16,3 +16,25 @@
 @use "layout/services";
 @use "layout/projects";
 @use "layout/footer";
+
+:root {
+  --color-background: #{variables.$background-color};
+  --color-main-text: #{variables.$primary-color};
+  --color-sub-text: #{variables.$secondary-color};
+  --color-accent: #{variables.$tertiary-colors};
+
+  --font-heading: #{variables.$font-heading};
+  --font-body: #{variables.$font-body};
+
+  --font-size-xl: #{variables.$font-size-xl};
+  --font-size-lg: #{variables.$font-size-lg};
+  --font-size-md: #{variables.$font-size-md};
+  --font-size-sm: #{variables.$font-size-sm};
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-sub-text);
+  font-family: var(--font-body);
+  font-size: var(--font-size-md);
+}

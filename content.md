@@ -288,21 +288,13 @@ Placeholder imagery must be clearly separated from actual client work.
 - Performance testing.
 - Cross-browser testing.
 
----
+### Colors
 
-## 14. Outstanding Business Information
-
-Before finalizing public-facing content, confirm:
-
-1. Official business address and operating cities.
-2. Business email and telephone number.
-3. Founding story and studio background.
-4. Verified projects and portfolio images.
-5. Approved testimonials.
-6. Actual design and client engagement process.
-7. Whether implementation and site supervision are offered.
-8. Social media accounts.
-9. Project enquiry and consultation arrangements.
-
-Do not publish unverified information as established business fact.
-
+- #F5F1E9
+- Main page background
+- #292923
+- Main text and dark sections
+-
+- Sub text
+- #DED5C8
+- Cards and subtle backgrounds
