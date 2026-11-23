@@ -1,0 +1,26 @@
+@use "../abstracts/variables";
+
+html {
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-sub-text);
+  font-family: var(--font-body);
+  font-size: var(--font-size-md);
+  line-height: 1.6;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}

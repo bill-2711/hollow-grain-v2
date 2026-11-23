@@ -31,10 +31,3 @@
   --font-size-md: #{variables.$font-size-md};
   --font-size-sm: #{variables.$font-size-sm};
 }
-
-body {
-  background-color: var(--color-background);
-  color: var(--color-sub-text);
-  font-family: var(--font-body);
-  font-size: var(--font-size-md);
-}
